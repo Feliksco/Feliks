@@ -1,0 +1,465 @@
+```json
+[
+    {
+        "CAS": "7732-18-5",
+        "Ingredient": "Water",
+        "Function": "Solvent",
+        "Description": "Water is the base ingredient in most skincare products, serving as a solvent to dissolve other ingredients and form the product base.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "56-81-5",
+        "Ingredient": "Glycerin",
+        "Function": "Hydrating agent",
+        "Description": "Glycerin is a humectant that draws moisture into the skin, helping to keep it hydrated and supple.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "67762-27-0",
+        "Ingredient": "Cetearyl Alcohol",
+        "Function": "Emollient",
+        "Description": "This fatty alcohol acts as an emollient, softening and smoothing the skin by forming a protective barrier to prevent moisture loss.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "63148-62-9",
+        "Ingredient": "Dimethicone",
+        "Function": "Emollient",
+        "Description": "Dimethicone is a silicone-based emollient that forms a protective barrier on the skin's surface, helping to lock in moisture and improve skin texture.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "57-11-4",
+        "Ingredient": "Stearic Acid",
+        "Function": "Emulsifier and surfactant",
+        "Description": "Stearic acid functions as both an emulsifier and a surfactant, helping to stabilize and blend the ingredients in skincare formulations, while also cleansing the skin by removing dirt and oil.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "11099-07-3",
+        "Ingredient": "Glyceryl Stearate",
+        "Function": "Emollient and emulsifier",
+        "Description": "Glyceryl stearate acts as both an emollient and an emulsifier, helping to soften and smooth the skin while also stabilizing the formulation by ensuring proper mixing of oil and water-based ingredients.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "151-21-3",
+        "Ingredient": "Sodium Lauryl Sulfate (SLS)",
+        "Function": "Surfactant",
+        "Description": "Sodium lauryl sulfate is a surfactant that creates foam and lather in skincare products, helping to cleanse the skin by removing dirt, oil, and impurities.",
+        "Rating text": "Average"
+    },
+    {
+        "CAS": "68585-34-2",
+        "Ingredient": "Sodium Laureth Sulfate (SLES)",
+        "Function": "Surfactant",
+        "Description": "Sodium laureth sulfate is a surfactant similar to SLS, used to create foam and lather in skincare products for effective cleansing.",
+        "Rating text": "Average"
+    },
+    {
+        "CAS": "57-55-6",
+        "Ingredient": "Propylene Glycol",
+        "Function": "Moisturizer and solvent",
+        "Description": "Propylene glycol acts as a humectant, attracting moisture to the skin, while also serving as a solvent to dissolve other ingredients in skincare formulations.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "107-88-0",
+        "Ingredient": "Butylene Glycol",
+        "Function": "Moisturizer and solvent",
+        "Description": "Butylene glycol is a humectant that helps to hydrate the skin by attracting moisture, while also serving as a solvent to dissolve other ingredients in skincare products.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "122-99-6",
+        "Ingredient": "Phenoxyethanol",
+        "Function": "Preservative",
+        "Description": "Phenoxyethanol is a widely used preservative in skincare products to prevent the growth of bacteria and fungi, ensuring product safety and longevity.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "70445-33-9",
+        "Ingredient": "Ethylhexylglycerin",
+        "Function": "Preservative booster",
+        "Description": "Ethylhexylglycerin is a preservative booster that enhances the efficacy of other preservatives, allowing for lower concentrations of potentially irritating preservatives like phenoxyethanol.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "73398-61-5",
+        "Ingredient": "Caprylic/Capric Triglyceride",
+        "Function": "Emollient",
+        "Description": "Caprylic/capric triglyceride is a lightweight emollient derived from coconut oil, providing moisturizing benefits to the skin without feeling heavy or greasy.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "194043-92-0",
+        "Ingredient": "Shea Butter",
+        "Function": "Emollient and moisturizer",
+        "Description": "Shea butter is a rich emollient and moisturizer that nourishes and hydrates the skin, leaving it soft, smooth, and protected.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "61789-91-1",
+        "Ingredient": "Jojoba Oil",
+        "Function": "Moist
+
+urizer and antioxidant",
+        "Description": "Jojoba oil is a lightweight moisturizer rich in antioxidants and fatty acids, helping to soothe and hydrate the skin while also protecting it from environmental damage.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "69430-24-6",
+        "Ingredient": "Cyclomethicone",
+        "Function": "Emollient and solvent",
+        "Description": "Cyclomethicone is a lightweight silicone-based emollient and solvent that provides a smooth, silky texture to skincare formulations, while also helping to dissolve other ingredients.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "9004-61-9",
+        "Ingredient": "Hyaluronic Acid",
+        "Function": "Hydrating agent",
+        "Description": "Hyaluronic acid is a powerful humectant that attracts and retains moisture in the skin, helping to plump and hydrate the skin's surface for a smoother, more youthful appearance.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "59-02-9",
+        "Ingredient": "Tocopherol (Vitamin E)",
+        "Function": "Antioxidant",
+        "Description": "Tocopherol, or vitamin E, is a potent antioxidant that helps to protect the skin from free radical damage caused by UV radiation and environmental stressors, helping to prevent premature aging.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "68-26-8",
+        "Ingredient": "Retinol (Vitamin A)",
+        "Function": "Antioxidant and anti-aging agent",
+        "Description": "Retinol, a form of vitamin A, is a potent antioxidant that helps to stimulate collagen production, reduce wrinkles, and improve skin texture and tone.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "50-81-7",
+        "Ingredient": "Ascorbic Acid (Vitamin C)",
+        "Function": "Antioxidant and brightening agent",
+        "Description": "Ascorbic acid, or vitamin C, is a powerful antioxidant that helps to brighten the skin, fade dark spots, and protect against UV damage, promoting a more even and radiant complexion.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "69-72-7",
+        "Ingredient": "Salicylic Acid",
+        "Function": "Exfoliant",
+        "Description": "Salicylic acid is a beta hydroxy acid (BHA) that exfoliates the skin by dissolving dead skin cells and unclogging pores, helping to treat acne and prevent breakouts.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "79-33-4",
+        "Ingredient": "Lactic Acid",
+        "Function": "Exfoliant",
+        "Description": "Lactic acid is an alpha hydroxy acid (AHA) that exfoliates the skin by loosening the bonds between dead skin cells, promoting cell turnover and revealing smoother, brighter skin.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "79-14-1",
+        "Ingredient": "Glycolic Acid",
+        "Function": "Exfoliant",
+        "Description": "Glycolic acid is an alpha hydroxy acid (AHA) that exfoliates the skin by dissolving the bonds between dead skin cells, revealing smoother, more radiant skin and improving overall skin texture.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "98-92-0",
+        "Ingredient": "Niacinamide (Vitamin B3)",
+        "Function": "Brightening agent and anti-inflammatory",
+        "Description": "Niacinamide, or vitamin B3, helps to brighten the skin, fade dark spots, and even out skin tone, while also reducing inflammation and strengthening the skin's barrier function.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "81-13-0",
+        "Ingredient": "Panthenol (Pro-Vitamin B5)",
+        "Function": "Moisturizer and anti-inflammatory",
+        "Description": "Panthenol, or pro-vitamin B5, is a humectant that attracts and retains moisture in the skin, helping to hydrate and soothe dry, irritated skin, while also reducing inflammation.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "97-59-6",
+        "Ingredient": "Allantoin",
+        "Function": "Moisturizer and soothing agent",
+        "Description": "Allantoin is a soothing and moisturizing agent that helps to calm and hydrate the skin, promoting healing and reducing irritation.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "0",
+        "Ingredient": "Ceramides",
+        "Function": "Moisturizer and barrier repair agent",
+        "Description": "Ceramides are lipid molecules that help to strengthen the skin's barrier function, locking in moisture and protecting the skin from environmental damage and dehydration.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "0",
+        "Ingredient": "Aloe Vera Extract",
+        "Function": "Soothing agent",
+        "Description": "Aloe vera extract is a natural soothing agent that helps to calm and hydrate the skin, reducing redness, inflammation, and irritation.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "9067-32-7",
+        "Ingredient": "Sodium Hyaluronate",
+        "Function": "Hydrating agent",
+        "Description": "Sodium hyaluronate is a form of hyaluronic acid that helps to hydrate and plump the skin by attracting and retaining moisture, promoting a smoother, more supple complexion.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "94-36-0",
+        "Ingredient": "Benzoyl Peroxide",
+        "Function": "Antibacterial and acne treatment",
+        "Description": "Benzoyl peroxide is an antimicrobial agent that kills acne-causing bacteria and helps to unclog pores, making it an effective treatment for acne and blemishes.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "1314-13-2",
+        "Ingredient": "Zinc Oxide",
+        "Function": "UV filter and soothing agent",
+        "Description": "Zinc oxide is a mineral UV filter that provides broad-spectrum protection against UVA and UVB rays, while also soothing and calming the skin, making it suitable for sensitive or irritated skin.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "13463-67-7",
+        "Ingredient": "Titanium Dioxide",
+        "Function": "UV filter",
+        "Description": "Titanium dioxide is a mineral UV filter that provides broad-spectrum protection against UVA and UVB rays, helping to prevent sunburn and premature aging of the skin.",
+        "Rating text": "Good
+
+"
+    },
+    {
+        "CAS": "1135-24-6",
+        "Ingredient": "Ferulic Acid",
+        "Function": "Antioxidant",
+        "Description": "Ferulic acid is a potent antioxidant that helps to protect the skin from free radical damage caused by UV radiation and environmental stressors.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "0",
+        "Ingredient": "Green Tea Extract",
+        "Function": "Antioxidant and anti-inflammatory",
+        "Description": "Green tea extract is rich in antioxidants and anti-inflammatory properties, helping to protect the skin from damage caused by free radicals and soothe irritation.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "84380-01-8",
+        "Ingredient": "Alpha Arbutin",
+        "Function": "Brightening agent",
+        "Description": "Alpha arbutin is a skin-lightening agent that helps to fade dark spots and hyperpigmentation, promoting a more even and radiant complexion.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "501-30-4",
+        "Ingredient": "Kojic Acid",
+        "Function": "Brightening agent",
+        "Description": "Kojic acid is a natural skin-lightening agent derived from mushrooms, helping to fade dark spots and hyperpigmentation for a more even skin tone.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "497-76-7",
+        "Ingredient": "Arbutin",
+        "Function": "Brightening agent",
+        "Description": "Arbutin is a natural skin-lightening agent that helps to fade dark spots and hyperpigmentation, promoting a more even and radiant complexion.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "0",
+        "Ingredient": "Licorice Extract",
+        "Function": "Brightening agent and anti-inflammatory",
+        "Description": "Licorice extract contains compounds that help to brighten the skin, fade dark spots, and reduce inflammation, making it suitable for sensitive or irritated skin.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "501-36-0",
+        "Ingredient": "Resveratrol",
+        "Function": "Antioxidant",
+        "Description": "Resveratrol is a powerful antioxidant found in grapes and red wine, helping to protect the skin from free radical damage and reduce the signs of aging.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "303-98-0",
+        "Ingredient": "Coenzyme Q10 (Ubiquinone)",
+        "Function": "Antioxidant",
+        "Description": "Coenzyme Q10 is a potent antioxidant that helps to protect the skin from damage caused by free radicals and environmental stressors, reducing the signs of aging.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "79-81-2",
+        "Ingredient": "Retinyl Palmitate",
+        "Function": "Antioxidant and anti-aging agent",
+        "Description": "Retinyl palmitate is a form of vitamin A that helps to stimulate collagen production, reduce wrinkles, and improve skin texture and tone.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "111-01-3",
+        "Ingredient": "Squalane",
+        "Function": "Moisturizer",
+        "Description": "Squalane is a lightweight moisturizer derived from squalene, a natural component of human sebum, helping to hydrate and soften the skin without clogging pores.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "366-18-7",
+        "Ingredient": "Cetyl Alcohol",
+        "Function": "Emollient",
+        "Description": "Cetyl alcohol acts as an emollient, softening and smoothing the skin by forming a protective barrier to prevent moisture loss.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "110-27-0",
+        "Ingredient": "Isopropyl Myristate",
+        "Function": "Emollient",
+        "Description": "Isopropyl myristate is an emollient that helps to soften and smooth the skin, improving its texture and appearance.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "28874-51-3",
+        "Ingredient": "Sodium PCA",
+        "Function": "Moisturizer",
+        "Description": "Sodium PCA is a natural moisturizing factor (NMF) found in the skin, helping to attract and retain moisture, promoting hydration and skin elasticity.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "57-13-6",
+        "Ingredient": "Urea",
+        "Function": "Moisturizer",
+        "Description": "Urea is a natural moisturizing factor (NMF) that helps to attract and retain moisture in the skin, promoting hydration and preventing dryness and flakiness.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "50-70-4",
+        "Ingredient": "Sorbitol",
+        "Function": "Moisturizer",
+        "Description": "Sorbitol is a humectant that helps to hydrate the skin by attracting moisture from the environment, promoting soft, smooth, and supple skin.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS":
+
+ "77-92-9",
+        "Ingredient": "Trehalose",
+        "Function": "Moisturizer",
+        "Description": "Trehalose is a sugar molecule that helps to hydrate and protect the skin by retaining moisture, promoting skin elasticity and resilience.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "11138-66-2",
+        "Ingredient": "Hydroxyethyl Urea",
+        "Function": "Moisturizer",
+        "Description": "Hydroxyethyl urea is a humectant that helps to attract and retain moisture in the skin, promoting hydration and preventing dryness and flakiness.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "149-32-6",
+        "Ingredient": "Menthol",
+        "Function": "Cooling agent and analgesic",
+        "Description": "Menthol provides a cooling sensation when applied to the skin, helping to relieve itching, irritation, and minor pain.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "8000-48-4",
+        "Ingredient": "Peppermint Oil",
+        "Function": "Cooling agent",
+        "Description": "Peppermint oil contains menthol, which provides a cooling sensation when applied to the skin, helping to soothe irritation and relieve discomfort.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "68424-04-4",
+        "Ingredient": "PEG-100 Stearate",
+        "Function": "Emulsifier",
+        "Description": "PEG-100 stearate is an emulsifier that helps to stabilize and blend the ingredients in skincare formulations, ensuring proper mixing of oil and water-based ingredients.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "8006-54-0",
+        "Ingredient": "Lavender Oil",
+        "Function": "Fragrance and soothing agent",
+        "Description": "Lavender oil provides a pleasant fragrance to skincare products and has soothing properties that help to calm and relax the skin.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "8000-25-7",
+        "Ingredient": "Tea Tree Oil",
+        "Function": "Antibacterial and anti-inflammatory",
+        "Description": "Tea tree oil has antibacterial and anti-inflammatory properties that help to treat acne and soothe irritation, making it a popular ingredient in skincare products for acne-prone skin.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "68650-44-2",
+        "Ingredient": "Sorbitan Stearate",
+        "Function": "Emulsifier",
+        "Description": "Sorbitan stearate is an emulsifier that helps to stabilize and blend the ingredients in skincare formulations, ensuring proper mixing of oil and water-based ingredients.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "8001-25-0",
+        "Ingredient": "Sweet Almond Oil",
+        "Function": "Moisturizer",
+        "Description": "Sweet almond oil is a lightweight moisturizer rich in vitamins and fatty acids, helping to nourish and hydrate the skin without clogging pores.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "1117-86-8",
+        "Ingredient": "Sodium Ascorbyl Phosphate",
+        "Function": "Antioxidant and brightening agent",
+        "Description": "Sodium ascorbyl phosphate is a stable form of vitamin C that helps to brighten the skin, fade dark spots, and protect against UV damage, promoting a more even and radiant complexion.",
+        "Rating text": "Best"
+    },
+    {
+        "CAS": "10098-97-2",
+        "Ingredient": "Lecithin",
+        "Function": "Emollient and emulsifier",
+        "Description": "Lecithin acts as both an emollient and an emulsifier, helping to soften and smooth the skin while also stabilizing the formulation by ensuring proper mixing of oil and water-based ingredients.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "10233-13-3",
+        "Ingredient": "Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+        "Function": "Emulsifier and thickening agent",
+        "Description": "This copolymer acts as both an emulsifier and a thickening agent in skincare formulations, helping to stabilize the product and improve its texture.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "68130-15-4",
+        "Ingredient": "Squalene",
+        "Function": "Moisturizer",
+        "Description": "Squalene is a lightweight moisturizer that helps to hydrate and soften the skin, leaving it feeling smooth and supple without clogging pores.",
+        "Rating text": "Good"
+    },
+    {
+        "CAS": "7647-01-0",
+        "Ingredient": "Sodium Chloride",
+        "Function": "Viscosity controlling agent",
+        "Description": "Sodium chloride is a common salt used in skincare products as a viscosity controlling agent, helping to thicken and stabilize the formulation.",
+        "Rating text": "Average"
+    },
+    {
+        "CAS": "9004-95-9",
+        "Ingredient": "Polyacrylamide",
+        "Function": "Film-forming agent",
+        "Description": "Polyacrylamide forms a film on the skin's surface, helping to lock in moisture and improve the texture and appearance of the skin.",
+        "Rating text": "Average"
+    },
+    {
+        "CAS": "25322-68-3",
+        "Ingredient": "C13-14 Isoparaffin",
+        "Function": "Emollient and solvent",
+        "Description": "C13-14 isoparaffin acts as both an emollient and a solvent in skincare formulations, helping to soften and smooth the skin while also dissolving other ingredients.",
+        "Rating text": "Average"
+    },
+    {
+        "CAS": "57-50-1",
+        "Ingredient": "Laureth-7",
+        "Function": "Surfactant and emulsifier",
+        "Description": "Laureth-7 is a surfactant and emulsifier that helps to cleanse the skin by removing dirt, oil, and impurities, while also stabilizing the formulation by ensuring proper mixing of oil and water-based ingredients.",
+        "Rating text": "Average"
+    },
+    {
+        "CAS": "9003-11-6",
+        "Ingredient": "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+        "Function": "Viscosity controlling agent",
+        "Description": "This crosspolymer helps to control the viscosity of skincare formulations, ensuring they have the right texture and consistency for easy application and absorption.",
+        "Rating text": "Average"
+    }
+]
+```
