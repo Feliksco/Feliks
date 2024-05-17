@@ -1,4 +1,3 @@
-```json
 [
     {
         "CAS": "7732-18-5",
@@ -101,9 +100,7 @@
     {
         "CAS": "61789-91-1",
         "Ingredient": "Jojoba Oil",
-        "Function": "Moist
-
-urizer and antioxidant",
+        "Function": "Moisturizer and antioxidant",
         "Description": "Jojoba oil is a lightweight moisturizer rich in antioxidants and fatty acids, helping to soothe and hydrate the skin while also protecting it from environmental damage.",
         "Rating text": "Best"
     },
@@ -224,9 +221,7 @@ urizer and antioxidant",
         "Ingredient": "Titanium Dioxide",
         "Function": "UV filter",
         "Description": "Titanium dioxide is a mineral UV filter that provides broad-spectrum protection against UVA and UVB rays, helping to prevent sunburn and premature aging of the skin.",
-        "Rating text": "Good
-
-"
+        "Rating text": "Good"
     },
     {
         "CAS": "1135-24-6",
@@ -462,4 +457,3 @@ urizer and antioxidant",
         "Rating text": "Average"
     }
 ]
-```
