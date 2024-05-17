@@ -4,734 +4,836 @@
         "Function": "Solvent",
         "Description": "Water is the base ingredient in most skincare products, serving as a solvent to dissolve other ingredients and form the product base.",
         "Rating text": "Best",
-        "Products": "Daily Moisturiser, Charcoal Exfoliator, Face Cleanser"
+        "Products": [
+            "Daily Moisturiser",
+            "Charcoal Exfoliator",
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Glycerin",
         "Function": "Hydrating agent",
         "Description": "Glycerin is a humectant that draws moisture into the skin, helping to keep it hydrated and supple.",
         "Rating text": "Best",
-        "Products": "Daily Moisturiser, Charcoal Exfoliator, Face Cleanser"
+        "Products": [
+            "Daily Moisturiser",
+            "Charcoal Exfoliator",
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Cetearyl Alcohol",
         "Function": "Emollient",
         "Description": "This fatty alcohol acts as an emollient, softening and smoothing the skin by forming a protective barrier to prevent moisture loss.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Dimethicone",
         "Function": "Emollient",
         "Description": "Dimethicone is a silicone-based emollient that forms a protective barrier on the skin's surface, helping to lock in moisture and improve skin texture.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Stearic Acid",
         "Function": "Emulsifier and surfactant",
         "Description": "Stearic acid functions as both an emulsifier and a surfactant, helping to stabilize and blend the ingredients in skincare formulations, while also cleansing the skin by removing dirt and oil.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Glyceryl Stearate",
         "Function": "Emollient and emulsifier",
         "Description": "Glyceryl stearate acts as both an emollient and an emulsifier, helping to soften and smooth the skin while also stabilizing the formulation by ensuring proper mixing of oil and water-based ingredients.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Sodium Lauryl Sulfate",
         "Function": "Surfactant",
         "Description": "Sodium lauryl sulfate is a surfactant that creates foam and lather in skincare products, helping to cleanse the skin by removing dirt, oil, and impurities.",
         "Rating text": "Average",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Sodium Laureth Sulfate",
         "Function": "Surfactant",
         "Description": "Sodium laureth sulfate is a surfactant similar to SLS, used to create foam and lather in skincare products for effective cleansing.",
         "Rating text": "Average",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Propylene Glycol",
-        "Function": "Moisturizer and solvent",
+        "Function": "Moisturiser and solvent",
         "Description": "Propylene glycol acts as a humectant, attracting moisture to the skin, while also serving as a solvent to dissolve other ingredients in skincare formulations.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Butylene Glycol",
-        "Function": "Moisturizer and solvent",
+        "Function": "Moisturiser and solvent",
         "Description": "Butylene glycol is a humectant that helps to hydrate the skin by attracting moisture, while also serving as a solvent to dissolve other ingredients in skincare products.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, Charcoal Exfoliator, Face Cleanser"
+        "Products": [
+            "Daily Moisturiser",
+            "Charcoal Exfoliator",
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Phenoxyethanol",
         "Function": "Preservative",
         "Description": "Phenoxyethanol is a widely used preservative in skincare products to prevent the growth of bacteria and fungi, ensuring product safety and longevity.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Ethylhexylglycerin",
         "Function": "Preservative booster",
         "Description": "Ethylhexylglycerin is a preservative booster that enhances the efficacy of other preservatives, allowing for lower concentrations of potentially irritating preservatives like phenoxyethanol.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Caprylic/Capric Triglyceride",
         "Function": "Emollient",
         "Description": "Caprylic/capric triglyceride is a lightweight emollient derived from coconut oil, providing moisturizing benefits to the skin without feeling heavy or greasy.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Shea Butter",
         "Function": "Emollient and moisturizer",
         "Description": "Shea butter is a rich emollient and moisturizer that nourishes and hydrates the skin, leaving it soft, smooth, and protected.",
         "Rating text": "Best",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Jojoba Oil",
-        "Function": "Moisturizer and antioxidant",
+        "Function": "Moisturiser and antioxidant",
         "Description": "Jojoba oil is a lightweight moisturizer rich in antioxidants and fatty acids, helping to soothe and hydrate the skin while also protecting it from environmental damage.",
         "Rating text": "Best",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Cyclomethicone",
         "Function": "Emollient and solvent",
         "Description": "Cyclomethicone is a lightweight silicone-based emollient and solvent that provides a smooth, silky texture to skincare formulations, while also helping to dissolve other ingredients.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Hyaluronic Acid",
         "Function": "Hydrating agent",
         "Description": "Hyaluronic acid is a powerful humectant that attracts and retains moisture in the skin, helping to plump and hydrate the skin's surface for a smoother, more youthful appearance.",
         "Rating text": "Best",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Tocopherol (Vitamin E)",
         "Function": "Antioxidant",
         "Description": "Tocopherol, or vitamin E, is a potent antioxidant that helps to protect the skin from free radical damage caused by UV radiation and environmental stressors, helping to prevent premature aging.",
         "Rating text": "Best",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Retinol (Vitamin A)",
         "Function": "Antioxidant and anti-aging agent",
         "Description": "Retinol, a form of vitamin A, is a potent antioxidant that helps to stimulate collagen production, reduce wrinkles, and improve skin texture and tone.",
         "Rating text": "Best",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Ascorbic Acid",
         "Function": "Antioxidant and brightening agent",
         "Description": "Ascorbic acid, or vitamin C, is a powerful antioxidant that helps to brighten the skin, fade dark spots, and protect against UV damage, promoting a more even and radiant complexion.",
         "Rating text": "Best",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Salicylic Acid",
         "Function": "Exfoliant",
         "Description": "Salicylic acid is a beta hydroxy acid (BHA) that exfoliates the skin by dissolving dead skin cells and unclogging pores, helping to treat acne and prevent breakouts.",
         "Rating text": "Good",
-        "Products": "Charcoal Exfoliator, "
+        "Products": [
+            "Charcoal Exfoliator"
+        ]
     },
     {
         "Ingredient": "Lactic Acid",
         "Function": "Exfoliant",
         "Description": "Lactic acid is an alpha hydroxy acid (AHA) that exfoliates the skin by loosening the bonds between dead skin cells, promoting cell turnover and revealing smoother, brighter skin.",
         "Rating text": "Good",
-        "Products": "Charcoal Exfoliator, "
+        "Products": [
+            "Charcoal Exfoliator"
+        ]
     },
     {
         "Ingredient": "Glycolic Acid",
         "Function": "Exfoliant",
         "Description": "Glycolic acid is an alpha hydroxy acid (AHA) that exfoliates the skin by dissolving the bonds between dead skin cells, revealing smoother, more radiant skin and improving overall skin texture.",
         "Rating text": "Good",
-        "Products": "Charcoal Exfoliator, "
+        "Products": [
+            "Charcoal Exfoliator"
+        ]
     },
     {
         "Ingredient": "Niacinamide",
         "Function": "Brightening agent and anti-inflammatory",
         "Description": "Niacinamide, or vitamin B3, helps to brighten the skin, fade dark spots, and even out skin tone, while also reducing inflammation and strengthening the skin's barrier function.",
         "Rating text": "Best",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Panthenol (Pro-Vitamin B5)",
-        "Function": "Moisturizer and anti-inflammatory",
+        "Function": "Moisturiser and anti-inflammatory",
         "Description": "Panthenol, or pro-vitamin B5, is a humectant that attracts and retains moisture in the skin, helping to hydrate and soothe dry, irritated skin, while also reducing inflammation.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Allantoin",
-        "Function": "Moisturizer and soothing agent",
+        "Function": "Moisturiser and soothing agent",
         "Description": "Allantoin is a soothing and moisturizing agent that helps to calm and hydrate the skin, promoting healing and reducing irritation.",
         "Rating text": "Good",
-        "Products": "Charcoal Exfoliator, "
+        "Products": [
+            "Charcoal Exfoliator"
+        ]
     },
     {
         "Ingredient": "Ceramides",
-        "Function": "Moisturizer and barrier repair agent",
+        "Function": "Moisturiser and barrier repair agent",
         "Description": "Ceramides are lipid molecules that help to strengthen the skin's barrier function, locking in moisture and protecting the skin from environmental damage and dehydration.",
         "Rating text": "Best",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Aloe Vera Extract",
         "Function": "Soothing agent",
         "Description": "Aloe vera extract is a natural soothing agent that helps to calm and hydrate the skin, reducing redness, inflammation, and irritation.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Sodium Hyaluronate",
         "Function": "Hydrating agent",
         "Description": "Sodium hyaluronate is a form of hyaluronic acid that helps to hydrate and plump the skin by attracting and retaining moisture, promoting a smoother, more supple complexion.",
         "Rating text": "Best",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Benzoyl Peroxide",
         "Function": "Antibacterial and acne treatment",
         "Description": "Benzoyl peroxide is an antimicrobial agent that kills acne-causing bacteria and helps to unclog pores, making it an effective treatment for acne and blemishes.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Zinc Oxide",
         "Function": "UV filter and soothing agent",
         "Description": "Zinc oxide is a mineral UV filter that provides broad-spectrum protection against UVA and UVB rays, while also soothing and calming the skin, making it suitable for sensitive or irritated skin.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Titanium Dioxide",
         "Function": "UV filter",
         "Description": "Titanium dioxide is a mineral UV filter that provides broad-spectrum protection against UVA and UVB rays, helping to prevent sunburn and premature aging of the skin.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Ferulic Acid",
         "Function": "Antioxidant",
         "Description": "Ferulic acid is a potent antioxidant that helps to protect the skin from free radical damage caused by UV radiation and environmental stressors.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Green Tea Extract",
         "Function": "Antioxidant and anti-inflammatory",
         "Description": "Green tea extract is rich in antioxidants and anti-inflammatory properties, helping to protect the skin from damage caused by free radicals and soothe irritation.",
         "Rating text": "Best",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Alpha Arbutin",
         "Function": "Brightening agent",
         "Description": "Alpha arbutin is a skin-lightening agent that helps to fade dark spots and hyperpigmentation, promoting a more even and radiant complexion.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Kojic Acid",
         "Function": "Brightening agent",
         "Description": "Kojic acid is a natural skin-lightening agent derived from mushrooms, helping to fade dark spots and hyperpigmentation for a more even skin tone.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Arbutin",
         "Function": "Brightening agent",
         "Description": "Arbutin is a natural skin-lightening agent that helps to fade dark spots and hyperpigmentation, promoting a more even and radiant complexion.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Licorice Extract",
         "Function": "Brightening agent and anti-inflammatory",
         "Description": "Licorice extract contains compounds that help to brighten the skin, fade dark spots, and reduce inflammation, making it suitable for sensitive or irritated skin.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Resveratrol",
         "Function": "Antioxidant",
         "Description": "Resveratrol is a powerful antioxidant found in grapes and red wine, helping to protect the skin from free radical damage and reduce the signs of aging.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Coenzyme Q10 (Ubiquinone)",
         "Function": "Antioxidant",
         "Description": "Coenzyme Q10 is a potent antioxidant that helps to protect the skin from damage caused by free radicals and environmental stressors, reducing the signs of aging.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Retinyl Palmitate",
         "Function": "Antioxidant and anti-aging agent",
         "Description": "Retinyl palmitate is a form of vitamin A that helps to stimulate collagen production, reduce wrinkles, and improve skin texture and tone.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Squalane",
-        "Function": "Moisturizer",
+        "Function": "Moisturiser",
         "Description": "Squalane is a lightweight moisturizer derived from squalene, a natural component of human sebum, helping to hydrate and soften the skin without clogging pores.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Cetyl Alcohol",
         "Function": "Emollient",
         "Description": "Cetyl alcohol acts as an emollient, softening and smoothing the skin by forming a protective barrier to prevent moisture loss.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Isopropyl Myristate",
         "Function": "Emollient",
         "Description": "Isopropyl myristate is an emollient that helps to soften and smooth the skin, improving its texture and appearance.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Sodium PCA",
-        "Function": "Moisturizer",
+        "Function": "Moisturiser",
         "Description": "Sodium PCA is a natural moisturizing factor (NMF) found in the skin, helping to attract and retain moisture, promoting hydration and skin elasticity.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Urea",
-        "Function": "Moisturizer",
+        "Function": "Moisturiser",
         "Description": "Urea is a natural moisturizing factor (NMF) that helps to attract and retain moisture in the skin, promoting hydration and preventing dryness and flakiness.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Sorbitol",
-        "Function": "Moisturizer",
+        "Function": "Moisturiser",
         "Description": "Sorbitol is a humectant that helps to hydrate the skin by attracting moisture from the environment, promoting soft, smooth, and supple skin.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Saccharide Isomerate",
-        "Function": "Moisturizer and humectant",
+        "Function": "Moisturiser and humectant",
         "Description": "Saccharide isomerate is a plant-derived moisturizer and humectant that helps to attract and retain moisture in the skin, promoting hydration and improving skin elasticity.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Lecithin",
         "Function": "Emollient",
         "Description": "Lecithin is a lipid-derived emollient that helps to soften and smooth the skin, improving its texture and appearance.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Trehalose",
-        "Function": "Moisturizer",
+        "Function": "Moisturiser",
         "Description": "Trehalose is a sugar-derived moisturizer that helps to hydrate and protect the skin, promoting elasticity and preventing moisture loss.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Xanthan Gum",
         "Function": "Viscosity agent and stabilizer",
         "Description": "Xanthan gum is a natural polysaccharide that helps to thicken and stabilize skincare formulations, improving their texture and consistency.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Carbomer",
         "Function": "Viscosity agent and stabilizer",
         "Description": "Carbomer is a synthetic polymer that helps to thicken and stabilize skincare formulations, improving their texture and consistency.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, Charcoal Exfoliator, "
+        "Products": [
+            "Daily Moisturiser",
+            "Charcoal Exfoliator"
+        ]
     },
     {
         "Ingredient": "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
         "Function": "Viscosity agent and stabilizer",
         "Description": "Acrylates/C10-30 alkyl acrylate crosspolymer is a synthetic polymer that helps to thicken and stabilize skincare formulations, improving their texture and consistency.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Sodium Polyacrylate",
         "Function": "Viscosity agent and stabilizer",
         "Description": "Sodium polyacrylate is a synthetic polymer that helps to thicken and stabilize skincare formulations, improving their texture and consistency.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Hydroxyethylcellulose",
         "Function": "Viscosity agent and stabilizer",
         "Description": "Hydroxyethylcellulose is a plant-derived polymer that helps to thicken and stabilize skincare formulations, improving their texture and consistency.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Ceteareth-20",
         "Function": "Emulsifier",
         "Description": "Ceteareth-20 is an emulsifying agent that helps to blend oil and water-based ingredients in skincare formulations, improving their stability and texture.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Butyrospermum Parkii (Shea) Butter",
         "Function": "Emollient",
         "Description": "Butyrospermum parkii (shea) butter is a rich emollient and moisturizer that nourishes and hydrates the skin, leaving it soft, smooth, and protected.",
         "Rating text": "Best",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Tocopheryl Acetate",
         "Function": "Antioxidant",
         "Description": "Tocopheryl acetate, or vitamin E acetate, is a stable form of vitamin E that helps to protect the skin from free radical damage caused by UV radiation and environmental stressors.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Tetrahexyldecyl Ascorbate",
         "Function": "Antioxidant",
         "Description": "Tetrahexyldecyl ascorbate is a stable form of vitamin C that helps to brighten the skin, fade dark spots, and protect against UV damage, promoting a more even and radiant complexion.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "N-Hydroxysuccinimide",
         "Function": "Anti-aging agent",
         "Description": "N-hydroxysuccinimide is a peptide that helps to reduce the appearance of dark circles and under-eye puffiness by targeting the underlying causes of discoloration.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Chrysin",
         "Function": "Anti-aging agent",
         "Description": "Chrysin is a flavonoid antioxidant that helps to reduce the appearance of dark circles and under-eye puffiness by targeting the breakdown of hemoglobin and improving circulation.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Palmitoyl Oligopeptide",
         "Function": "Peptide",
         "Description": "Palmitoyl oligopeptide is a peptide that helps to stimulate collagen production and improve skin elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Palmitoyl Tetrapeptide-7",
         "Function": "Peptide",
         "Description": "Palmitoyl tetrapeptide-7 is a peptide that helps to reduce inflammation and improve skin firmness and elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Palmitoyl Tripeptide-1",
         "Function": "Peptide",
         "Description": "Palmitoyl tripeptide-1 is a peptide that helps to stimulate collagen production and improve skin elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Acetyl Hexapeptide-8",
         "Function": "Peptide",
         "Description": "Acetyl hexapeptide-8, also known as argireline, is a peptide that helps to reduce the appearance of wrinkles and fine lines by relaxing facial muscles and preventing repetitive facial movements.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Tetrapeptide-30",
         "Function": "Peptide",
         "Description": "Tetrapeptide-30 is a peptide that helps to reduce the appearance of dark spots and hyperpigmentation by inhibiting melanin production and promoting a more even skin tone.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Tetrapeptide-21",
         "Function": "Peptide",
         "Description": "Tetrapeptide-21 is a peptide that helps to stimulate collagen production and improve skin elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Palmitoyl Pentapeptide-4",
         "Function": "Peptide",
         "Description": "Palmitoyl pentapeptide-4 is a peptide that helps to stimulate collagen production and improve skin firmness and elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Palmitoyl Tripeptide-38",
         "Function": "Peptide",
         "Description": "Palmitoyl tripeptide-38 is a peptide that helps to stimulate collagen production and improve skin elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Palmitoyl Tripeptide-5",
         "Function": "Peptide",
         "Description": "Palmitoyl tripeptide-5 is a peptide that helps to stimulate collagen production and improve skin firmness and elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Copper Peptide",
         "Function": "Peptide",
         "Description": "Copper peptide is a peptide that helps to stimulate collagen production and improve skin elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Matrixyl 3000",
         "Function": "Peptide",
         "Description": "Matrixyl 3000 is a peptide blend that helps to stimulate collagen production and improve skin firmness and elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Matrixyl Synthe'6",
         "Function": "Peptide",
         "Description": "Matrixyl Synthe'6 is a peptide that helps to stimulate collagen production and improve skin firmness and elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Argireline",
         "Function": "Peptide",
         "Description": "Argireline is a peptide that helps to reduce the appearance of wrinkles and fine lines by relaxing facial muscles and preventing repetitive facial movements.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Hexapeptide-10",
         "Function": "Peptide",
         "Description": "Hexapeptide-10 is a peptide that helps to stimulate collagen production and improve skin firmness and elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Hexapeptide-9",
         "Function": "Peptide",
         "Description": "Hexapeptide-9 is a peptide that helps to stimulate collagen production and improve skin firmness and elasticity, reducing the appearance of fine lines and wrinkles.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Acetyl Tetrapeptide-5",
         "Function": "Peptide",
         "Description": "Acetyl tetrapeptide-5 is a peptide that helps to reduce the appearance of under-eye puffiness and dark circles by improving lymphatic circulation and reducing fluid retention.",
         "Rating text": "Good",
-        "Products": ""
+        "Products": []
     },
     {
         "Ingredient": "Water",
         "Function": "Solvent",
         "Description": "Water is the base ingredient in most skincare products, serving as a solvent to dissolve other ingredients and form the product base.",
         "Rating text": "Best",
-        "Products": "Daily Moisturiser, Charcoal Exfoliator, Face Cleanser"
+        "Products": [
+            "Daily Moisturiser",
+            "Charcoal Exfoliator",
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "1,2-Hexanediol",
         "Function": "Solvent and humectant",
         "Description": "1,2-Hexanediol is a solvent that helps to dissolve other ingredients in skincare formulations and acts as a humectant, attracting moisture to the skin.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, Charcoal Exfoliator, Face Cleanser"
+        "Products": [
+            "Daily Moisturiser",
+            "Charcoal Exfoliator",
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Steartrimonium Methosulfate",
         "Function": "Surfactant and emulsifier",
         "Description": "Steartrimonium methosulfate functions as a surfactant and emulsifier, helping to cleanse the skin by removing dirt and oil while also stabilizing skincare formulations.",
         "Rating text": "Average",
-        "Products": "Charcoal Exfoliator, "
+        "Products": [
+            "Charcoal Exfoliator"
+        ]
     },
     {
         "Ingredient": "Alcohol",
         "Function": "Solvent and astringent",
         "Description": "Alcohol acts as a solvent to dissolve other ingredients in skincare products and also functions as an astringent, helping to tone and tighten the skin. However, it can be drying and irritating to some skin types.",
         "Rating text": "Average",
-        "Products": "Charcoal Exfoliator, "
+        "Products": [
+            "Charcoal Exfoliator"
+        ]
     },
     {
         "Ingredient": "Charcoal Powder",
         "Function": "Absorbent and detoxifying agent",
         "Description": "Charcoal powder absorbs excess oil and impurities from the skin, helping to detoxify and clarify the complexion. It is commonly used in skincare products for oily and acne-prone skin.",
         "Rating text": "Good",
-        "Products": "Charcoal Exfoliator, Face Cleanser"
+        "Products": [
+            "Charcoal Exfoliator",
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Betaine",
         "Function": "Humectant and moisturizer",
         "Description": "Betaine is a humectant that attracts moisture to the skin, helping to hydrate and soften the skin's surface. It also functions as a moisturizer, improving skin texture and elasticity.",
         "Rating text": "Good",
-        "Products": "Charcoal Exfoliator, "
+        "Products": [
+            "Charcoal Exfoliator"
+        ]
     },
     {
         "Ingredient": "Cellulose",
         "Function": "Viscosity agent and texture enhancer",
         "Description": "Cellulose is a plant-derived ingredient used as a viscosity agent and texture enhancer in skincare formulations, improving the product's texture and consistency.",
         "Rating text": "Good",
-        "Products": "Charcoal Exfoliator, "
+        "Products": [
+            "Charcoal Exfoliator"
+        ]
     },
     {
         "Ingredient": "Citric Acid",
         "Function": "Exfoliant and pH adjuster",
         "Description": "Citric acid is an alpha hydroxy acid (AHA) that exfoliates the skin by loosening the bonds between dead skin cells, promoting cell turnover and revealing smoother, brighter skin. It also functions as a pH adjuster in skincare formulations.",
         "Rating text": "Good",
-        "Products": "Charcoal Exfoliator, Face Cleanser"
+        "Products": [
+            "Charcoal Exfoliator",
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Disodium EDTA",
         "Function": "Chelating agent",
         "Description": "Disodium EDTA is a chelating agent that helps to stabilize skincare formulations by binding to metal ions, preventing them from causing product degradation and maintaining product efficacy.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, Charcoal Exfoliator, Face Cleanser"
+        "Products": [
+            "Daily Moisturiser",
+            "Charcoal Exfoliator",
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Dipropylene Glycol",
         "Function": "Solvent and humectant",
         "Description": "Dipropylene glycol is a solvent that helps to dissolve other ingredients in skincare formulations and acts as a humectant, attracting moisture to the skin.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Ethylhexyl Methoxycinnamate",
         "Function": "UV filter",
         "Description": "Ethylhexyl methoxycinnamate is a chemical UV filter that absorbs and filters UVB rays from the sun, helping to prevent sunburn and protect the skin from UV damage.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Niacinamide",
         "Function": "Brightening agent and anti-inflammatory",
         "Description": "Niacinamide, or vitamin B3, helps to brighten the skin, fade dark spots, and even out skin tone, while also reducing inflammation and strengthening the skin's barrier function.",
         "Rating text": "Best",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Glyceryl Stearate SE",
         "Function": "Emulsifier and surfactant",
         "Description": "Glyceryl stearate SE acts as both an emulsifier and a surfactant, helping to stabilize and blend the ingredients in skincare formulations, while also cleansing the skin by removing dirt and oil.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Isoamyl p-Methoxycinnamate",
         "Function": "UV filter",
         "Description": "Isoamyl p-methoxycinnamate is a chemical UV filter that absorbs and filters UVB rays from the sun, helping to prevent sunburn and protect the skin from UV damage.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Cyclopentasiloxane",
         "Function": "Emollient and solvent",
         "Description": "Cyclopentasiloxane is a silicone-based emollient and solvent that provides a smooth, silky texture to skincare formulations, while also helping to dissolve other ingredients.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Cyclohexasiloxane",
         "Function": "Emollient and solvent",
         "Description": "Cyclohexasiloxane is a silicone-based emollient and solvent that provides a smooth, silky texture to skincare formulations, while also helping to dissolve other ingredients.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Olea Europaea (Olive) Fruit Oil",
         "Function": "Emollient",
         "Description": "Olive fruit oil is a rich emollient derived from olives, providing intense hydration and nourishment to the skin, leaving it soft, smooth, and protected.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Helianthus Annuus (Sunflower) Seed Oil",
         "Function": "Emollient",
         "Description": "Sunflower seed oil is a lightweight emollient rich in antioxidants and fatty acids, helping to nourish and hydrate the skin, while also protecting it from environmental damage.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "PEG-100 Stearate",
         "Function": "Emulsifier and surfactant",
         "Description": "PEG-100 stearate acts as both an emulsifier and a surfactant, helping to stabilize and blend the ingredients in skincare formulations, while also cleansing the skin by removing dirt and oil.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Beeswax",
         "Function": "Emollient and occlusive agent",
         "Description": "Beeswax is a natural emollient and occlusive agent that helps to soften and smooth the skin, while also forming a protective barrier to lock in moisture and prevent moisture loss.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Arginine",
-        "Function": "Moisturizer and antioxidant",
+        "Function": "Moisturiser and antioxidant",
         "Description": "Arginine is an amino acid that helps to hydrate and protect the skin, while also providing antioxidant benefits to fight against free radical damage and premature aging.",
         "Rating text": "Good",
-        "Products": "Daily Moisturiser, Face Cleanser"
+        "Products": [
+            "Daily Moisturiser",
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Ceramide NP",
-        "Function": "Moisturizer and barrier repair agent",
+        "Function": "Moisturiser and barrier repair agent",
         "Description": "Ceramide NP is a lipid molecule that helps to strengthen the skin's barrier function, locking in moisture and protecting the skin from environmental damage and dehydration.",
         "Rating text": "Best",
-        "Products": "Daily Moisturiser, "
+        "Products": [
+            "Daily Moisturiser"
+        ]
     },
     {
         "Ingredient": "Lauryl Glucoside",
         "Function": "Surfactant",
         "Description": "Lauryl glucoside is a mild surfactant derived from coconut oil and glucose, helping to cleanse the skin by removing dirt and oil without stripping away its natural oils.",
         "Rating text": "Good",
-        "Products": "Face Cleanser"
+        "Products": [
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Disodium Cocoamphodiacetate",
         "Function": "Surfactant and conditioning agent",
         "Description": "Disodium cocoamphodiacetate is a mild surfactant and conditioning agent that helps to cleanse the skin by removing dirt and oil, while also conditioning and softening the skin.",
         "Rating text": "Good",
-        "Products": "Face Cleanser"
+        "Products": [
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Acrylates Copolymer",
         "Function": "Film-forming agent and viscosity enhancer",
         "Description": "Acrylates copolymer forms a film on the skin's surface, helping to lock in moisture and improve the longevity of skincare products, while also enhancing their texture and consistency.",
         "Rating text": "Good",
-        "Products": "Face Cleanser"
+        "Products": [
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Coco-Glucoside",
         "Function": "Surfactant",
         "Description": "Coco-glucoside is a mild surfactant derived from coconut oil and glucose, helping to cleanse the skin by removing dirt and oil without stripping away its natural oils.",
         "Rating text": "Good",
-        "Products": "Face Cleanser"
+        "Products": [
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Cocamidopropyl Betaine",
         "Function": "Surfactant",
         "Description": "Cocamidopropyl betaine is a mild surfactant derived from coconut oil, helping to cleanse the skin by removing dirt and oil without causing irritation or dryness.",
         "Rating text": "Good",
-        "Products": "Face Cleanser"
+        "Products": [
+            "Face Cleanser"
+        ]
     },
     {
         "Ingredient": "Sodium Chloride",
         "Function": "Viscosity agent",
         "Description": "Sodium chloride, or table salt, is used as a viscosity agent in skincare formulations to thicken the product and improve its texture and consistency.",
         "Rating text": "Average",
-        "Products": "Face Cleanser"
+        "Products": [
+            "Face Cleanser"
+        ]
     }
 ]
